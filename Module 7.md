@@ -1,9 +1,9 @@
-EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
+# EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
-Aim:
+## Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
-Algorithm:
+## Algorithm:
 1.	Declare structure eligible with age (integer) and n (character array)
 2.	Declare variable e of type eligible
 3.	Input age and name using scanf, store in e
@@ -14,26 +14,28 @@ Else
 5.	Print details (e.age, e.n)
 6.	Return 0
  
-Program:
+## Program:
 
-//type your code here
-
-
-Output:
-
-//paste your output here
+![Screenshot 2025-04-27 205417](https://github.com/user-attachments/assets/2a68cef0-bb7b-47fa-8323-1f5572340132)
 
 
-Result:
+
+## Output:
+
+![Screenshot 2025-04-27 205427](https://github.com/user-attachments/assets/7273aa68-709b-4048-9fa9-49571d375a9d)
+
+
+
+## Result:
 Thus, the program is verified successfully. 
 
 
 
-EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
-Aim:
+# EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
+## Aim:
 To write a C program for passing structure as function and returning a structure from a function
 
-Algorithm:
+## Algorithm:
 1.	Define structure numbers with members a and b.
 2.	Declare variable n of type numbers.
 3.	Prompt the user to enter values for a and b.
@@ -42,32 +44,24 @@ Algorithm:
 6.	Print the result returned by the add function.
 7.	Return 0
  
-Program:
+## Program:
 
-//type your code here
+![Screenshot 2025-04-27 205823](https://github.com/user-attachments/assets/6227f098-0ecb-420e-ac42-c9d21971b765)
 
+## Output:
 
+![Screenshot 2025-04-27 205831](https://github.com/user-attachments/assets/a7e0b17a-4761-4bc2-b4ea-8dcbcbf04eca)
 
+## Result:
 
-Output:
-
-
-//paste your output here
-
-
-
-
-Result:
 Thus, the program is verified successfully
 
+# EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
 
- 
-EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
-
-Aim:
+## Aim:
 To write a C program to read a file name from user
 
-Algorithm:
+## Algorithm:
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -84,37 +78,23 @@ Use scanf to input the file name into the name array.
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+## Program:
 
-//type your code here
+![Screenshot 2025-04-27 210241](https://github.com/user-attachments/assets/9527f71e-0e50-45c6-8542-1c74904467a0)
 
+## Output:
 
+![Screenshot 2025-04-27 210256](https://github.com/user-attachments/assets/0bcba716-a6e3-4f0c-bc87-926f27fceea6)
 
-
-Output:
-
-
-//paste your output here
-
-
-
-
-
-
-
-
-
-
-
-Result:
+## Result:
 Thus, the program is verified successfully
  
 
 
-EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
-Aim:
+# EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+## Aim:
 To write a C program to read, a file and insert text in that file
-Algorithm:
+## Algorithm:
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -131,34 +111,24 @@ Use scanf to input the file name into the name array and the number of strings i
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+## Program:
 
-//type your code here
-
-
+![Screenshot 2025-04-27 210940](https://github.com/user-attachments/assets/5ab4d0cb-cb3e-44ea-9f01-5a7b876ddbcb)
 
 
-Output:
+## Output:
 
+![Screenshot 2025-04-27 210949](https://github.com/user-attachments/assets/f6700d13-3a00-426f-8434-6d806df0d69d)
 
-//paste your output here
-
-
-
-
-
-
-Result:
+## Result:
 Thus, the program is verified successfully
 
+# Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
 
-
-Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
-
-Aim:
+## Aim:
 The aim of this program is to dynamically allocate memory to store information about multiple subjects (name and marks), input the details for each subject, and then display the stored information. Finally, it frees the allocated memory to prevent memory leaks.
 
-Algorithm:
+## Algorithm:
 1.Input the number of subjects.
 
 2.Read the integer value n from the user, which represents the number of subjects.
@@ -185,22 +155,13 @@ Algorithm:
 
 13.End the program by returning 0.
 
-Program:
+## Program:
 
-//type your code here
+![Screenshot 2025-04-27 204519](https://github.com/user-attachments/assets/67e58fc9-8526-4c65-a1de-4ed94f7854e3)
 
+## Output:
 
+![Screenshot 2025-04-27 204545](https://github.com/user-attachments/assets/8bf18ddc-5823-492c-9803-7e660b5f83ce)
 
-
-Output:
-
-
-//paste your output here
-
-
-
-
-
-
-Result:
+## Result:
 Thus, the program is verified successfully
